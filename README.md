@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - As a new student in the Full Stack Development Boot Camp, I am motivated to develop a place wherein I can add/update notes in an envirnment suited to this boot camp.
 - I built this project to familiarize myself with concepts including: HTML, CSS, Git, and JavaScript.
 - By creating this webpage, I am creating an environment, from which I can learn.
